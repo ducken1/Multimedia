@@ -1,0 +1,17 @@
+C:\Users\duckeN\Desktop\Multimedia\Steganografija\Steganografija\bin\Debug\net6.0-windows\Steganografija.exe
+C:\Users\duckeN\Desktop\Multimedia\Steganografija\Steganografija\bin\Debug\net6.0-windows\Steganografija.deps.json
+C:\Users\duckeN\Desktop\Multimedia\Steganografija\Steganografija\bin\Debug\net6.0-windows\Steganografija.runtimeconfig.json
+C:\Users\duckeN\Desktop\Multimedia\Steganografija\Steganografija\bin\Debug\net6.0-windows\Steganografija.dll
+C:\Users\duckeN\Desktop\Multimedia\Steganografija\Steganografija\bin\Debug\net6.0-windows\Steganografija.pdb
+C:\Users\duckeN\Desktop\Multimedia\Steganografija\Steganografija\obj\Debug\net6.0-windows\Steganografija.csproj.AssemblyReference.cache
+C:\Users\duckeN\Desktop\Multimedia\Steganografija\Steganografija\obj\Debug\net6.0-windows\Steganografija.Form1.resources
+C:\Users\duckeN\Desktop\Multimedia\Steganografija\Steganografija\obj\Debug\net6.0-windows\Steganografija.csproj.GenerateResource.cache
+C:\Users\duckeN\Desktop\Multimedia\Steganografija\Steganografija\obj\Debug\net6.0-windows\Steganografija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duckeN\Desktop\Multimedia\Steganografija\Steganografija\obj\Debug\net6.0-windows\Steganografija.AssemblyInfoInputs.cache
+C:\Users\duckeN\Desktop\Multimedia\Steganografija\Steganografija\obj\Debug\net6.0-windows\Steganografija.AssemblyInfo.cs
+C:\Users\duckeN\Desktop\Multimedia\Steganografija\Steganografija\obj\Debug\net6.0-windows\Steganografija.csproj.CoreCompileInputs.cache
+C:\Users\duckeN\Desktop\Multimedia\Steganografija\Steganografija\obj\Debug\net6.0-windows\Steganografija.dll
+C:\Users\duckeN\Desktop\Multimedia\Steganografija\Steganografija\obj\Debug\net6.0-windows\refint\Steganografija.dll
+C:\Users\duckeN\Desktop\Multimedia\Steganografija\Steganografija\obj\Debug\net6.0-windows\Steganografija.pdb
+C:\Users\duckeN\Desktop\Multimedia\Steganografija\Steganografija\obj\Debug\net6.0-windows\Steganografija.genruntimeconfig.cache
+C:\Users\duckeN\Desktop\Multimedia\Steganografija\Steganografija\obj\Debug\net6.0-windows\ref\Steganografija.dll

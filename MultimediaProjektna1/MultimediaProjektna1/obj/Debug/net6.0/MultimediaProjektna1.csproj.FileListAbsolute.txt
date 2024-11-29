@@ -1,0 +1,15 @@
+C:\Users\duckeN\Desktop\Multimedia\MultimediaProjektna1\MultimediaProjektna1\bin\Debug\net6.0\MultimediaProjektna1.exe
+C:\Users\duckeN\Desktop\Multimedia\MultimediaProjektna1\MultimediaProjektna1\bin\Debug\net6.0\MultimediaProjektna1.deps.json
+C:\Users\duckeN\Desktop\Multimedia\MultimediaProjektna1\MultimediaProjektna1\bin\Debug\net6.0\MultimediaProjektna1.runtimeconfig.json
+C:\Users\duckeN\Desktop\Multimedia\MultimediaProjektna1\MultimediaProjektna1\bin\Debug\net6.0\MultimediaProjektna1.dll
+C:\Users\duckeN\Desktop\Multimedia\MultimediaProjektna1\MultimediaProjektna1\bin\Debug\net6.0\MultimediaProjektna1.pdb
+C:\Users\duckeN\Desktop\Multimedia\MultimediaProjektna1\MultimediaProjektna1\obj\Debug\net6.0\MultimediaProjektna1.csproj.AssemblyReference.cache
+C:\Users\duckeN\Desktop\Multimedia\MultimediaProjektna1\MultimediaProjektna1\obj\Debug\net6.0\MultimediaProjektna1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duckeN\Desktop\Multimedia\MultimediaProjektna1\MultimediaProjektna1\obj\Debug\net6.0\MultimediaProjektna1.AssemblyInfoInputs.cache
+C:\Users\duckeN\Desktop\Multimedia\MultimediaProjektna1\MultimediaProjektna1\obj\Debug\net6.0\MultimediaProjektna1.AssemblyInfo.cs
+C:\Users\duckeN\Desktop\Multimedia\MultimediaProjektna1\MultimediaProjektna1\obj\Debug\net6.0\MultimediaProjektna1.csproj.CoreCompileInputs.cache
+C:\Users\duckeN\Desktop\Multimedia\MultimediaProjektna1\MultimediaProjektna1\obj\Debug\net6.0\MultimediaProjektna1.dll
+C:\Users\duckeN\Desktop\Multimedia\MultimediaProjektna1\MultimediaProjektna1\obj\Debug\net6.0\refint\MultimediaProjektna1.dll
+C:\Users\duckeN\Desktop\Multimedia\MultimediaProjektna1\MultimediaProjektna1\obj\Debug\net6.0\MultimediaProjektna1.pdb
+C:\Users\duckeN\Desktop\Multimedia\MultimediaProjektna1\MultimediaProjektna1\obj\Debug\net6.0\MultimediaProjektna1.genruntimeconfig.cache
+C:\Users\duckeN\Desktop\Multimedia\MultimediaProjektna1\MultimediaProjektna1\obj\Debug\net6.0\ref\MultimediaProjektna1.dll
